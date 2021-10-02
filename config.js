@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Chị à!',
     introDesc: `Làm nông thì có quả
-    Làm việc thì có tiền
-    Thế em làm gì để có chị 😙`,
+Làm việc thì có tiền
+Thế em làm gì để có chị 😙`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',

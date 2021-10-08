@@ -1,18 +1,16 @@
 const CONFIG = {
-    introTitle: 'Chị à!',
-    introDesc: `Làm nông thì có quả
-Làm việc thì có tiền
-Thế em làm gì để có chị 😙`,
+    introTitle: 'Chao Xìn!',
+    introDesc: `Lâu quá hông gặp r😙`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu chị này <3',
-    btnNo: 'Không làm gì cả!!',
-    question:'Trăng rằm có bánh trung thu. Tiện cho em hỏi gu chị là gì???',
-    btnReply: 'Vào đây để biết gu chị này <3',
-    reply: 'Gu của chị chính là... 😘',
-    mess: 'Em nè 🥰',
-    messDesc: 'Thế hông biết em có thể hẹn chị một buổi cafe được hông?',
+    btnYes: '6 tháng',
+    btnNo: 'Không muốn gặp luôn!!',
+    question:'Ấn tượng về t là gì?????',
+    btnReply: 'thật lòng đi nhó :v',
+    reply: 'Cute, dth, CHUNG TÌNH 😘',
+    mess: ' 🥰',
+    messDesc: 'Qua dịch cafe đê???',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
